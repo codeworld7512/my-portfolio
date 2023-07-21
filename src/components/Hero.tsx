@@ -36,7 +36,7 @@ export const Hero = () => {
                 as="h1"
                 fontSize={{ base: "2rem", md: "2.8rem", xl: "3.8rem" }}
               >
-                Hello, my name is Syeda Zainab<br />
+                Hello, my name is Mofasser Shaffiq<br />
                 I&apos;m a
                 <Text
                   as="span"
