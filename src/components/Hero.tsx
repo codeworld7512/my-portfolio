@@ -36,7 +36,7 @@ export const Hero = () => {
                 as="h1"
                 fontSize={{ base: "2rem", md: "2.8rem", xl: "3.8rem" }}
               >
-                Hello, my name is Mofasser Shaffiq<br />
+                Hello, my name is Stefan Naumoski<br />
                 I&apos;m a
                 <Text
                   as="span"
@@ -44,7 +44,7 @@ export const Hero = () => {
                   ml={{ base: "0.7rem", md: "1.1rem" }}
                   fontSize={{ base: "2rem", md: "2.8rem", xl: "3.8rem" }}
                 >
-                  Front-End Developer
+                  ReactJS Developer
                 </Text>
               </Heading>
             </motion.div>

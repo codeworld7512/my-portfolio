@@ -10,8 +10,7 @@ ReactJS, NextJS, TypeScript, ChakraUI, Framer Motion
 
 ##  Project Structure
 
-```
-├── src/
+```├── src/
 │   ├── assets
 │   │   ├── icons
 │   │   └── images
